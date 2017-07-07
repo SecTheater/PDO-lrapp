@@ -3,6 +3,8 @@ This is the Login Register system that we have created through our course includ
 How it Works ? 
 
 1- Import the lrapp.sql to your phpmyadmin
+
+
 2- put your mysql credentials at inc/connection.php
 
 Link of the course 
